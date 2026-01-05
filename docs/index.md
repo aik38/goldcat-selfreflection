@@ -1,216 +1,186 @@
 ---
-title: GoldCat | Hoshi Consultation AI (LINE)
 permalink: /
+title: GoldCat | Hoshi Consultation AI
 ---
 
 # GoldCat — Hoshi Consultation AI (LINE)
 
-**A message-based consultation support service on LINE.**  
-Get quick, gentle, and practical replies powered by AI (for entertainment & self-reflection).
+A digital consultation service you can use on LINE.  
+You purchase a plan (monthly pass / message credits), then chat with the AI inside LINE.
 
-- LINE Official Account: https://lin.ee/BMtJe8S  
-- Support Email: goldcat.jp@gmail.com  
-- Location: Kitakyushu, Fukuoka, Japan  
+**Add on LINE:** https://lin.ee/BMtJe8S  
+**Support email:** goldcat.jp@gmail.com  
+**Support phone:** +81 80-5582-6601  
+**Statement descriptor:** GOLDCAT HOSHI AI
 
 ---
 
-## What you can do
-- Ask about daily worries, relationships, work, habits, motivation, and decision-making
-- Get structured suggestions, reframing, and simple action steps
-- Light “tarot-style” guidance as entertainment (not fortune-telling guarantees)
+## What this service is
+GoldCat provides an AI-based conversation service for personal consultation and reflection (entertainment / self-understanding use).  
+This is a **digital service**. No physical goods are shipped.
 
-> **Important:** This service is not medical, legal, financial, or professional counseling.  
-> If you need urgent or professional help, please contact an appropriate specialist.
+**Languages:** Japanese / English (responses may vary depending on your messages).
 
 ---
 
 ## How it works
-1. Add our LINE Official Account  
-2. Purchase a plan or ticket pack (payment is processed by Stripe)  
-3. Send a message on LINE  
-4. Receive replies and use your included usage/credits
+1. Add GoldCat on LINE  
+2. Purchase a plan (monthly pass or message credits) via Stripe  
+3. Your usable message count is granted, and you can start chatting
+
+If activation is not reflected, please contact support.
 
 ---
 
-## Pricing (example)
-> Please replace the numbers below with your actual Stripe prices.
+## Pricing
+- **Monthly Pass (30 messages / month):** JPY 800
+- **Message Credits (30 messages, one-time):** JPY 800
 
-- **Monthly Plan:** JPY ___ / month  
-- **Ticket Pack:** JPY ___ (___ uses)  
-- **Extra Pack (optional):** JPY ___ (___ additional uses)
-
-*All prices are tax-included unless stated otherwise.*
+*Prices may change. The latest price is shown on the purchase page.*
 
 ---
 
-## Payment & Security
-- Payments are processed by **Stripe**.
-- We **do not** store your card number on our servers.
-- Authentication such as **3D Secure** may be applied automatically depending on the card issuer / risk checks.
+## Delivery / Service start timing
+- Digital service. No shipping.
+- Service is usually available **immediately after successful payment** (within a few minutes).
 
 ---
 
-# Legal Notice (Specified Commercial Transactions Act – Japan)
+## Refunds / cancellations
+Due to the nature of digital services, we generally do not offer refunds after delivery/activation.  
+However, we will handle the following cases:
+- Duplicate charges
+- System errors where service activation was not provided
 
-## Seller / Service Provider
-- Business Name: **GoldCat**
-- Service Name: **Hoshi Consultation AI (LINE)**
-
-## Responsible Person
-- **(Recommended for Stripe/Japan compliance) Your name here**
-- *(Privacy option)* If you prefer not to disclose publicly, you may state:  
-  “We will provide the responsible person’s name without delay upon request.”  
-  *(Note: You must actually respond promptly when requested.)*
-
-## Address
-- **(Recommended) Full address here**
-- *(Privacy option)* “We will provide the address without delay upon request.”
-
-## Phone Number
-- **(Recommended) +81-80-5582-6601**
-- *(Privacy option)* “We will provide the phone number without delay upon request.”
-
-## Email
-- goldcat.jp@gmail.com
-
-## Sales Price
-- Displayed on the purchase page (Stripe Checkout / Payment Link) for each plan or ticket pack.
-
-## Additional Fees
-- Internet connection fees and communication charges are borne by the customer.
-
-## Payment Methods
-- Credit/debit cards and other methods available on Stripe (depending on your Stripe settings).
-
-## Payment Timing
-- Charged at the time of purchase.
-- For subscriptions, charges recur automatically each billing period unless canceled.
-
-## Service Delivery Time
-- Digital service. Access/usage is enabled after payment confirmation.
-- If manual confirmation is required, it will be enabled within **24 hours**.
-
-## Returns / Cancellations / Refunds
-- Digital service: **No returns/exchanges** after purchase in principle.
-- Subscription can be canceled before the next renewal date; cancellation applies to the next billing cycle.
-- If the service cannot be provided due to our fault, we will handle refunds or alternatives based on the situation.
-
-## Operating Environment
-- LINE app (latest version recommended)
-- Smartphone/PC with an internet connection
+Please contact support with your payment receipt details.
 
 ---
 
-# Privacy Policy (Short)
-We may collect and use the following information to provide and improve the service:
-- LINE identifiers (display name, user ID), messages you send, usage/credit status, and payment status (via Stripe event logs).
-We do not sell personal data. We take reasonable security measures to protect stored data.
+## Payment method
+Payments are processed by **Stripe** (credit/debit cards and other methods provided by Stripe).  
+We do **not** store your full card number on our servers.
 
 ---
 
----
+## Privacy
+We may collect and use the following data to provide the service:
+- LINE user identifier and message content (to generate responses and improve service quality)
+- Purchase status and plan type (from Stripe, limited to what is necessary for fulfillment)
 
-# 日本語（JP）
-
-# GoldCat — 星の相談室AI（LINE）
-
-**LINEで使える「メッセージ相談サポート」のデジタルサービスです。**  
-AIが、やさしく・実用的に返信します（エンタメ／自己理解の補助目的）。
-
-- LINE公式アカウント：https://lin.ee/BMtJe8S  
-- お問い合わせ：goldcat.jp@gmail.com  
-- 所在地：福岡県北九州市  
+We do not sell personal data.  
+For inquiries about deletion or data handling, contact: goldcat.jp@gmail.com
 
 ---
 
-## できること
-- 日常の悩み／人間関係／仕事／習慣／意思決定などの相談
-- 状況整理、視点の切り替え、具体的な一歩の提案
-- “タロット風”の言葉がけ（あくまでエンタメで、結果の保証はありません）
-
-※本サービスは、医療・法律・金融・専門カウンセリングではありません。  
-緊急性がある場合や専門的な支援が必要な場合は、適切な専門機関へご相談ください。
+## Terms / important notes
+- This service does not provide medical, legal, or emergency support.
+- Do not use it for illegal purposes, harassment, or attempts to obtain sensitive personal data.
+- Service availability may be affected by system maintenance or third-party outages (LINE/Stripe).
 
 ---
 
-## 使い方
-1. LINE公式アカウントを友だち追加  
-2. プラン／回数券を購入（決済はStripeが処理）  
-3. LINEでメッセージ送信  
-4. 返信を受け取り、利用回数（クレジット）を消費して利用
+## Security
+- Card data entry is handled on Stripe-hosted pages.
+- Stripe Dashboard access is protected with strong passwords and two-factor authentication.
+- Our public website is hosted as a static site (GitHub Pages) and does not provide user login or file upload features.
 
 ---
 
-## 料金（例）
-※下記の金額は、**実際のStripe価格に合わせて置き換えてください**。
+# 日本語（Japanese）
 
-- **月額プラン：** ___円／月  
-- **回数券：** ___円（___回）  
-- **追加パック（任意）：** ___円（追加___回）
+# GoldCat（ゴールドキャット）— 星相談AI（LINE）
 
----
+LINE上で利用できる **デジタル相談サービス**です。  
+月額パス／回数券（メッセージ利用権）を購入すると、LINE内でAIとチャットできます。
 
-## 決済と安全性
-- 決済は **Stripe** により処理されます。
-- 当方サーバーでは **カード番号を保存しません**。
-- カード会社／リスク判定により **3Dセキュア** が自動適用される場合があります。
+**LINE追加:** https://lin.ee/BMtJe8S  
+**サポートメール:** goldcat.jp@gmail.com  
+**サポート電話:** 080-5582-6601（日本）  
+**カード明細表記:** GOLDCAT HOSHI AI
 
 ---
 
-# 特定商取引法に基づく表記
+## サービス内容
+GoldCatは、対話を通じた相談・内省サポート（エンタメ／自己理解用途）を提供します。  
+本サービスは **デジタルサービス**です。物理商品の発送はありません。
 
-## 販売事業者（役務提供事業者）
-- 屋号：**GoldCat**
-- サービス名：**星の相談室AI（LINE）**
+**対応言語:** 日本語 / 英語（入力内容により返答言語が変わる場合があります）
 
-## 運営責任者
-- **（Stripe審査・国内向けは明記推奨）氏名を記載**
-- （プライバシー重視の場合の記載例）  
-  「運営責任者名は、請求があった場合に遅滞なく開示します。」  
-  ※請求が来たら“実際に”速やかに開示できる体制が必要です。
+---
 
-## 所在地
-- **（推奨）住所を記載**
-- （プライバシー重視の場合の記載例）  
-  「所在地は、請求があった場合に遅滞なく開示します。」
+## 利用の流れ
+1. LINEでGoldCatを友だち追加  
+2. Stripe決済で「月額パス」または「回数券（メッセージ利用権）」を購入  
+3. 利用回数が付与され、チャット開始
 
-## 電話番号
-- **（推奨）080-5582-6601**
-- （プライバシー重視の場合の記載例）  
-  「電話番号は、請求があった場合に遅滞なく開示します。」
+反映されない場合はサポートへご連絡ください。
 
-## メールアドレス
-- goldcat.jp@gmail.com
+---
 
-## 販売価格
-- 各プラン／回数券の購入画面（Stripeの決済画面）に表示された金額（消費税込）
+## 料金
+- **月額パス（30通／月）:** 800円
+- **回数券（30通・買い切り）:** 800円
 
-## 商品代金以外の必要料金
-- 通信料等はお客様のご負担となります。
+※最新の料金は購入ページに表示されます。料金は予告なく変更される場合があります。
+
+---
+
+## 提供時期（引き渡し時期）
+- デジタルサービスのため配送はありません。
+- 決済完了後、通常 **数分以内に利用可能**となります。
+
+---
+
+## 返品・キャンセル（返金）
+デジタルサービスの性質上、原則として提供開始後の返金はできません。  
+ただし、以下の場合は個別に対応します。
+- 二重決済が発生した場合
+- システム不具合等により利用権が付与されなかった場合
+
+決済控え（メール等）を添えてご連絡ください。
+
+---
 
 ## お支払い方法
-- Stripeで利用可能な決済手段（クレジットカード等）
-
-## お支払い時期
-- 購入時に決済が確定します。
-- 月額プランは解約まで自動更新で課金されます。
-
-## 役務の提供時期
-- デジタルサービスのため、決済確認後に利用可能となります。  
-- 目視確認が必要な場合は、**24時間以内**に反映します。
-
-## 返品・キャンセル・返金
-- デジタルサービスのため、原則として購入後の返品／交換はできません。
-- 月額プランは次回更新日前までに解約すると、次回以降の課金が停止されます。
-- 当方都合で提供不能な場合は、状況に応じて返金等の対応を行います。
-
-## 動作環境
-- LINEアプリ（最新版推奨）
-- インターネット接続環境（スマホ／PC）
+Stripe（クレジットカード等、Stripeが提供する決済手段）  
+※当方サーバーでカード番号を保持しません（カード情報入力はStripe側で実施）。
 
 ---
 
-# プライバシーポリシー（簡易）
-サービス提供・改善のため、以下の情報を取り扱う場合があります。  
-- LINE上の識別子（表示名、ユーザーID等）、送信メッセージ、利用回数（クレジット）状況、決済状況（Stripeのイベントログ等）  
-取得した情報を販売することはありません。合理的な安全対策を講じて管理します。
+## プライバシー
+本サービス提供のため、以下の情報を必要な範囲で取り扱います。
+- LINEのユーザー識別子・送信メッセージ（返答生成／品質改善）
+- Stripeから連携される購入状況・プラン種別（履行に必要な範囲）
+
+個人情報を第三者へ販売しません。削除等のご相談は下記へ：  
+goldcat.jp@gmail.com
+
+---
+
+## 利用上の注意
+- 医療・法律・緊急対応を目的としたサービスではありません。
+- 違法行為、嫌がらせ、機微情報の不正取得などの目的で利用しないでください。
+- メンテナンス等で一時的に利用できない場合があります（LINE/Stripe障害含む）。
+
+---
+
+# 特定商取引法に基づく表記（日本）
+
+**販売事業者（屋号）**：GoldCat（ゴールドキャット）  
+**運営責任者**：伊東 吟  
+**所在地**：〒802-0018 福岡県北九州市小倉北区中津口1丁目1-38 602  
+**電話番号**：080-5582-6601  
+**メールアドレス**：goldcat.jp@gmail.com  
+**販売価格**：各商品ページに記載（上記「料金」参照）  
+**商品代金以外の必要料金**：通信料（インターネット接続にかかる費用はお客様負担）  
+**お支払い方法**：Stripe（クレジットカード等）  
+**お支払い時期**：購入時に即時決済  
+**提供時期**：決済完了後、通常数分以内  
+**返品・キャンセル**：デジタルサービスのため原則不可（ただし二重決済・不具合等は個別対応）  
+**動作環境**：LINEアプリが利用可能な端末／インターネット接続
+
+---
+
+## お問い合わせ窓口
+サポートメール：goldcat.jp@gmail.com  
+受付時間：原則 10:00〜18:00（JST）※不定休
