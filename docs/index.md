@@ -1,6 +1,55 @@
+# Hoshi Counseling AI (Counseling AI on LINE)
+
+A digital counseling support service available on LINE.  
+Users send messages and receive AI responses (for entertainment and self-reflection purposes).
+
+---
+
+## Pricing (Ticket Packs)
+- 30 replies: JPY 980
+- 100 replies: JPY 2,480
+- 300 replies: JPY 5,980
+
+*One “reply” is generally counted as one AI response.*
+
+---
+
+## How it’s provided
+- Platform: LINE Official Account (chat)
+- Product type: Digital service (ticket packs)
+
+LINE: https://lin.ee/BMtJe8S
+
+---
+
+## Refunds / Cancellations
+Ticket packs are digital usage rights and are generally non-refundable after purchase.  
+However, in cases of clear seller-side issues such as duplicate charges or system errors, we will provide a refund or restore the corresponding number of tickets.
+
+---
+
+## Privacy Policy (Summary)
+- Data collected: LINE user identifier, message content, usage count, payment identifiers (for fraud prevention and support)
+- Purpose: service delivery, quality improvement, customer support, fraud prevention
+- Sharing: no third-party sharing without user consent except as required by law
+- Retention: kept only as long as necessary for operation and deleted when no longer needed
+
+---
+
+## Contact
+Email: goldcat.jp@gmail.com
+
+---
+
+## Business Info
+Seller: GoldCat (Sole proprietor)  
+Location: Kitakyushu, Fukuoka, Japan
+
+---
+
 # 星の相談室AI（LINEで使える相談AI）
 
-LINE上で利用できる相談サポートのデジタルサービスです。
+LINE上で利用できる相談サポートのデジタルサービスです。  
 メッセージ送信によりAIが返信します（エンタメ・自己理解用途）。
 
 ---
@@ -18,7 +67,7 @@ LINE上で利用できる相談サポートのデジタルサービスです。
 - 提供媒体：LINE公式アカウント（チャット）
 - 商品形態：デジタルサービス（回数券）
 
-LINE：＜あなたのLINE公式アカウントURLを貼る＞
+LINE：https://lin.ee/BMtJe8S
 
 ---
 
@@ -37,10 +86,10 @@ LINE：＜あなたのLINE公式アカウントURLを貼る＞
 ---
 
 ## お問い合わせ
-メール：＜連絡用メール＞
+メール：goldcat.jp@gmail.com
 
 ---
 
 ## 事業者情報
-販売者名：＜個人名または屋号＞
-所在地：＜都道府県・市区町村まで＞
+販売者名：GoldCat（個人事業）  
+所在地：福岡県北九州市
