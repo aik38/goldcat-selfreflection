@@ -45,8 +45,7 @@ This service is intended for users **18 years and older**.
 
 - **Seller:** GOLDCAT  
 - **Responsible person:** AKIRA ITO  
-- **Address:** 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu-shi, Fukuoka 802-0018, Japan  
-  （福岡県北九州市小倉北区中津口1-1-38）  
+- **Address:** 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu-shi, Fukuoka 802-0018, Japan  　  
 - **Email:** goldcat.jp@gmail.com  
 - **Phone:** +81 80 5582 6601  
 
