@@ -62,7 +62,7 @@ At checkout you may see available methods such as:
 - Convenience store payments (Konbini)
 - PayPay
 - PayPal  
-Available methods may vary depending on eligibility and settings; the checkout screen shows the final options. :contentReference[oaicite:3]{index=3}
+Available methods may vary depending on eligibility and settings; the checkout screen shows the final options.
 
 ## Payment timing (payment period)
 Charged immediately upon completion of checkout.
