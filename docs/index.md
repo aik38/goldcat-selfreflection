@@ -25,9 +25,12 @@ A lightweight, text-only AI chat service on LINE for self-reflection and thought
 **Payment timing (payment period):** charged immediately at checkout.
 
 ## Pricing (message packs)
-- Starter: 10 credits — ¥480 (tax included)
-- Basic: 30 credits — ¥980 (tax included)
-- Standard: 100 credits — ¥2,800 (tax included)
+- Free trial: up to 10 AI replies (text only)
+- Prepaid packs (tax included):
+  - 30 replies: JPY 480
+  - 100 replies: JPY 980
+  - 600 replies: JPY 5,000
+* “1 reply” means 1 AI message sent to you in the LINE chat.
 
 ## Refunds / cancellations
 Because this is a digital service, **cancellations and refunds are generally not available after credits are granted**.  
