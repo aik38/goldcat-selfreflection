@@ -58,7 +58,7 @@ If there is a duplicate charge or credits were not delivered, we will investigat
 
 - Support email: goldcat.jp@gmail.com  
 - Phone: +81 80 5582 6601  
-- Location: Kitakyushu City, Fukuoka, Japan
+- Location: 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan
 
 ---
 
@@ -66,7 +66,7 @@ If there is a duplicate charge or credits were not delivered, we will investigat
 
 **Service provider (business name):** GOLDCAT (GoldCat)  
 **Responsible person:** AKIRA ITO  
-**Location:** Kitakyushu City, Fukuoka, Japan  
+**Location:** 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan  
 **Email:** goldcat.jp@gmail.com  
 **Phone:** +81 80 5582 6601  
 
@@ -144,7 +144,7 @@ GoldCatは、LINE上でAIによる相談・自己整理・ジャーナリング�
 
 - メール：goldcat.jp@gmail.com  
 - 電話番号：+81 80 5582 6601  
-- 所在地：福岡県北九州市  
+- 所在地：1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan  
 - 運営責任者：AKIRA ITO
 
 ---
@@ -153,7 +153,7 @@ GoldCatは、LINE上でAIによる相談・自己整理・ジャーナリング�
 
 **販売事業者：** GOLDCAT（GoldCat）  
 **運営責任者：** AKIRA ITO  
-**所在地：** 福岡県北九州市  
+**所在地：**　1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan
 **電話番号：** +81 80 5582 6601  
 **メールアドレス：** goldcat.jp@gmail.com  
 
