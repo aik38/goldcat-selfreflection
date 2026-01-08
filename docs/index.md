@@ -1,170 +1,137 @@
-# GoldCat — Hoshi Consultation AI
+# GoldCat — Self-Reflection AI (LINE)
 
-A lightweight AI chat-based consultation service delivered on LINE (self-reflection & entertainment use).
-No physical goods are shipped.
-
----
+A lightweight 1-on-1 **text-only** AI chat service on LINE for self-reflection and journaling support.  
+**No fortune-telling / no psychic services / no matchmaking / no adult content.**  
+Digital service only (no physical goods shipped).
 
 ## Start here
-
 - Add on LINE: https://lin.ee/BMtJe8S
 
----
-
 ## What you get
+- 1-on-1 text chat with an AI on LINE
+- Self-reflection prompts and journaling support
+- A simple space to organize thoughts and feelings (non-medical, non-therapeutic)
 
-GoldCat provides AI-powered chat support on LINE for self-reflection, journaling prompts, and tarot-style guidance for entertainment purposes.
-
----
+## What this service is NOT
+- Not fortune-telling, tarot reading, psychic services, or spiritual diagnosis
+- Not dating / matchmaking / user-to-user communication
+- Not medical, psychological therapy, legal, or financial advice
+- No images, videos, audio, or live streaming
 
 ## How it works
-
-1. Purchase a credit pack (one-time payment).
-2. After payment is confirmed, credits are added to your account.
-3. Use GoldCat on LINE. Each response consumes credits based on the usage rules shown in LINE.
+1. Purchase a **Message Pack** (one-time payment).
+2. After payment is confirmed, your pack is added to your account.
+3. Each AI reply consumes **1 message** from your pack.
 
 **Payment timing (payment period):** charged immediately at checkout.
 
----
-
-## Pricing (credit packs)
-
-- Starter: 10 credits — ¥480  
-- Basic: 30 credits — ¥980  
-- Standard: 100 credits — ¥2,800  
-- Pro: 300 credits — ¥6,800  
-
-**Credit validity:** valid for 6 months from purchase.
-
----
-
-## Delivery / service availability
-
-- Delivery method: digital service on LINE  
-- Credit delivery timing: typically within a few minutes after successful payment  
-- If you do not receive credits: contact us via email with your purchase email and purchase time.
-
----
+## Pricing (Message Packs)
+- Starter: 10 messages — ¥480 (tax included)
+- Basic: 30 messages — ¥980 (tax included)
+- Standard: 100 messages — ¥2,800 (tax included)
 
 ## Refunds / cancellation
+Because this is a digital service, **cancellations and refunds are generally not available after delivery** (after the message pack is added).  
+If there is a clear system error (e.g., payment completed but the pack is not delivered), we will investigate and provide a remedy (delivery or refund) as appropriate.
 
-Because this is a digital service delivered immediately, we generally do not offer refunds after credits have been delivered.
-
-If there is a duplicate charge or credits were not delivered, we will investigate and resolve it.
-
----
-
-## Contact
-
-- Support email: goldcat.jp@gmail.com  
-- Phone: +81 80 5582 6601  
-- Location: 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan
+## Terms / prohibited use
+Users must not request or generate illegal content, adult/sexual content, harassment, hate, or harmful instructions.  
+We may suspend access to protect users and comply with policy.
 
 ---
 
-# Commerce Disclosure (Japan — Specified Commercial Transactions Act)
+# Commerce Disclosure (Japan) / Legal Notice
 
-**Service provider (business name):** GOLDCAT (GoldCat)  
+**Service provider:** GOLDCAT  
 **Responsible person:** AKIRA ITO  
-**Location:** 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan  
+**Address (JP):** 福岡県北九州市小倉北区中津口1-1-38  
+**Address (EN):** 1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu-shi, Fukuoka, Japan  
 **Email:** goldcat.jp@gmail.com  
-**Phone:** +81 80 5582 6601  
+**Phone:** +81 80 5582 6601
 
-**Sales price:** as listed on this page (JPY).  
-**Additional fees:** internet connection fees/communication charges are borne by the customer.  
+## Price
+Displayed on this page and at checkout (tax included).
 
-**Accepted payment methods:** Credit/debit cards (including major brands), PayPay, convenience store payments, and other Stripe-supported methods *only if shown on the checkout screen at the time of purchase*.  
+## Additional fees
+Internet connection and communication charges required to use LINE and the website.
 
-**Payment timing (payment period):** charged immediately at checkout (one-time payment).  
+## Accepted payment methods
+At checkout you may see available methods such as:
+- Credit cards (Visa / Mastercard / JCB / American Express, etc.)
+- Apple Pay / Google Pay
+- Convenience store payments (Konbini)
+- PayPay
+- PayPal  
+Available methods may vary depending on eligibility and settings; the checkout screen shows the final options. :contentReference[oaicite:3]{index=3}
 
-**Delivery timing:** credits are typically granted within a few minutes after payment is completed.  
-**Returns/cancellation:** no returns for digital services. Refund policy is as stated above.  
-**Operating environment:** a device that can use LINE and an internet connection.
+## Payment timing (payment period)
+Charged immediately upon completion of checkout.
 
----
+## Service delivery timing
+Usually delivered shortly after payment confirmation (message pack is added to your account).
 
----
+## Returns / cancellation
+Digital service: no returns. Refund policy is described above.
 
-# （日本語）GoldCat — Hoshi Consultation AI
-
-LINE上で提供するAI相談サービスです（自己理解・エンタメ用途）。  
-物理商品の配送はありません。
-
----
-
-## ご利用開始
-
-- LINE追加：https://lin.ee/BMtJe8S
-
----
-
-## サービス内容
-
-GoldCatは、LINE上でAIによる相談・自己整理・ジャーナリング補助・タロット風ガイダンス（エンタメ用途）を提供します。
+## Operating environment
+A smartphone with the LINE app installed and an internet connection.
 
 ---
 
-## 使い方
+# （日本語）GoldCat — 内省AIチャット（LINE）
 
-1. 回数券（クレジット）を購入します（都度課金）。
-2. 決済確認後、クレジットが付与されます。
-3. LINE上でGoldCatを利用します（利用ルールに応じてクレジットを消費します）。
+LINE上で提供する、1対1の **テキスト専用** AIチャットサービスです。  
+思考整理・内省・日記（ジャーナリング）支援を目的とします。  
+**占い／サイキック／出会い・マッチング／アダルトは提供しません。**  
+※デジタル役務のため、物品の発送はありません。
 
-**支払時期（決済期間）：** 購入手続き完了時に即時決済されます。
+## 使い方（開始方法）
+- LINE追加： https://lin.ee/BMtJe8S
 
----
+## 提供内容
+- AIとの1対1テキストチャット（ユーザー同士の交流なし）
+- 内省・思考整理・日記支援のための質問やプロンプト
 
-## 料金（回数券／クレジット）
+## 提供しない内容（重要）
+- 占い、タロット、サイキック、霊視等の鑑定行為
+- 出会い・恋愛の仲介、マッチング、ユーザー同士の連絡機能
+- 医療・心理療法・法律・金融の専門助言
+- 画像／動画／音声／ライブ配信
 
-- お試し：10回 — ¥480  
-- ベーシック：30回 — ¥980  
-- スタンダード：100回 — ¥2,800  
-- プロ：300回 — ¥6,800  
+## ご利用の流れ
+1. **メッセージパック（都度課金）** を購入
+2. 決済確認後、パックがアカウントへ付与
+3. AIの返信1回につき **1メッセージ** 消費
 
-**有効期限：** 購入日から6か月
+**決済期間（支払時期）：** チェックアウト完了時に即時決済されます。
 
----
+## 料金（メッセージパック）
+- Starter：10回 — 480円（税込）
+- Basic：30回 — 980円（税込）
+- Standard：100回 — 2,800円（税込）
 
-## 提供時期・提供方法
+## 返品・キャンセル（返金）
+デジタル役務の性質上、**付与後（提供開始後）のキャンセル／返金は原則不可**です。  
+ただし、決済完了にもかかわらず付与されない等の明確な不具合が確認できる場合は、調査の上、再付与または返金等で対応します。
 
-- 提供方法：LINE上のデジタルサービス  
-- 付与タイミング：決済完了後、通常数分以内に反映  
-- 反映されない場合：購入時刻・購入メールアドレスを添えて、メールでご連絡ください。
-
----
-
-## 返金・キャンセル
-
-デジタルサービスの性質上、クレジット付与後の返金は原則として行いません。  
-ただし、重複決済や未付与など不備がある場合は調査のうえ対応します。
-
----
-
-## お問い合わせ
-
-- メール：goldcat.jp@gmail.com  
-- 電話番号：+81 80 5582 6601  
-- 所在地：1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan  
-- 運営責任者：AKIRA ITO
+## 禁止事項
+違法行為、アダルト／性的表現、嫌がらせ、ヘイト、危険行為の助長などは禁止します。  
+安全・規約遵守のため、必要に応じて利用停止する場合があります。
 
 ---
 
-## 特定商取引法に基づく表記
+# 特定商取引法に基づく表記
 
-**販売事業者：** GOLDCAT（GoldCat）  
+**販売事業者名：** GOLDCAT  
 **運営責任者：** AKIRA ITO  
-**所在地：**　1-1-38 Nakatsuguchi, Kokurakita-ku, Kitakyushu, Fukuoka, Japan
-**電話番号：** +81 80 5582 6601  
+**所在地：** 福岡県北九州市小倉北区中津口1-1-38  
 **メールアドレス：** goldcat.jp@gmail.com  
+**電話番号：** +81 80 5582 6601
 
-**販売価格：** 本ページに記載のとおり（日本円）  
-**商品代金以外の必要料金：** インターネット接続料金・通信料金はお客様負担  
-
-**お支払い方法：** クレジットカード（主要ブランド）、PayPay、コンビニ払い、その他チェックアウト画面に表示されるStripe対応の決済手段  
-※ご利用可能な決済手段は、購入時のチェックアウト画面に表示されるものが適用されます。  
-
-**支払時期（決済期間）：** 購入手続き完了時に即時決済（都度課金）  
-
-**引渡時期（提供時期）：** 決済完了後、通常数分以内にクレジット付与  
-**返品・キャンセル：** デジタルサービスのため返品不可（返金条件は上記参照）  
-**動作環境：** LINEが利用可能な端末／インターネット接続環境
+**販売価格：** 本ページおよび決済画面に表示（消費税込）  
+**商品代金以外の必要料金：** 通信料（LINE利用・インターネット接続に必要な費用）  
+**お支払い方法：** クレジットカード、Apple Pay / Google Pay、コンビニ払い、PayPay、PayPal 等（決済画面に表示される方法が適用） :contentReference[oaicite:4]{index=4}  
+**決済期間（支払時期）：** 決済画面での手続き完了時に即時  
+**役務の提供時期：** 原則として決済確認後、速やかに付与  
+**返品・キャンセル：** デジタル役務のため原則不可（不具合時は上記返金方針に基づき対応）  
+**動作環境：** LINEアプリが動作する端末、インターネット環境
